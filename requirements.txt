@@ -2,4 +2,5 @@ falcon
 ipython
 gunicorn
 httpie
+msgpack-python
 pytest
