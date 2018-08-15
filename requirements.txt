@@ -4,3 +4,4 @@ gunicorn
 httpie
 msgpack-python
 pytest
+mock
